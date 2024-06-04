@@ -1,2 +1,3 @@
 # Welcome
-Welcome Tushal GitHub
+Welcome Tushal GitHub.
+Tushal Gangani
